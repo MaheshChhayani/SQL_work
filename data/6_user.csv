@@ -1,0 +1,4 @@
+"User_ID";"First_name";"Last_Name";"Birth_Date";"Email";"Shipping_Address_Id";"Billing_Address_Id"
+1;"first1";"last1";"1990-10-12 00:00:00.000";"email";0;0
+2;"first2";"last2";"1990-10-12 00:00:00.000";"email";0;0
+3;"first3";"last3";"1990-10-12 00:00:00.000";"email";0;0

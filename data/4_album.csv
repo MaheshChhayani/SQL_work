@@ -1,0 +1,4 @@
+"Album_ID";"Name";"Code";"Description";"Release_Date";"Price";"Copies";"Language_Language_ID";"Singer_Singer_ID";"Genre_Genre_ID"
+1;"album1";"1234";"desc";"2019-10-10 00:00:00.000";4.3;10;1;1;1
+2;"album2";"1234";"desc";"2020-05-10 00:00:00.000";8.0;10;2;2;2
+3;"album3";"3232";"desc";"2020-01-01 00:00:00.000";4.5;10;2;2;2
